@@ -1,0 +1,5 @@
+1. 
+Create and login to account
+https://www.langchain.com/
+
+https://platform.openai.com/

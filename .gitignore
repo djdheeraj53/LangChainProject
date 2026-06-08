@@ -1,0 +1,102 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environments
+venv/
+.env/
+.env.*
+.venv/
+env/
+ENV/
+
+# Conda env (if created inside project)
+venv/
+.env/
+conda-meta/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS files (Mac)
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Python cache & builds
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# ML / AI / LangChain
+# =========================
+*.faiss
+*.index
+*.pkl
+*.pickle
+
+# Vector DB / embeddings caches
+chroma/
+chroma_db/
+faiss_index/
+
+# LangChain / LLM cache
+.langchain/
+.cache/
+
+# HuggingFace cache
+.huggingface/
+transformers_cache/
+
+# =========================
+# API Keys / Secrets
+# =========================
+.env
+.env.local
+.env.production
+
+# =========================
+# Conda environments folder (if used inside repo)
+# =========================
+envs/
+.conda/
+
+# =========================
+# Python testing
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Notebook outputs
+# =========================
+*.nbconvert.ipynb

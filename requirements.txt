@@ -1,8 +1,14 @@
 langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
 python-dotenv
 ipykernel
-langchain-community
+
 pypdf
-bs4
+pymupdf
+
 arxiv
 wikipedia
+beautifulsoup4
